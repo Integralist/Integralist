@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/PlyUFbzqM6lnwmB4dW/giphy.gif)
+
+I am a... 
+
+Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
+
+> _Be patient, kind, and generous with your time_ - **Me**.
+
+❤️
+
+## Articles
+
+I write (a lot) here: https://www.integralist.co.uk/posts/
+
 <!--
 **Integralist/Integralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
