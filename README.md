@@ -14,6 +14,10 @@ Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
 
 I write (a lot) here: https://www.integralist.co.uk/posts/
 
+## Be Warned
+
+Most of my GitHub projects are old code hacked together and doesn't necessarily best represent me as an engineer :grin:
+
 <!--
 **Integralist/Integralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
