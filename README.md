@@ -12,7 +12,7 @@ Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
 
 ## Articles
 
-I write (a lot) here: https://www.integralist.co.uk/posts/
+I write: https://www.integralist.co.uk/posts/
 
 ## Be Warned
 
