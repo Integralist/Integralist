@@ -2,18 +2,19 @@
 
 ![](https://media.giphy.com/media/PlyUFbzqM6lnwmB4dW/giphy.gif)
 
-I am a... 
+### I am a...
 
 Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
 
-Life advice...
+### Life advice...
 
 Be patient, kind, and generous with your time.
 
 ❤️
 
-Experience...
+### Experience...
 
+- Staff Software Engineer @Fastly
 - Staff Software Engineer @BuzzFeed
 - Principal Software Engineer @BBC
 - Principal Software Engineer @StormCreative
@@ -22,7 +23,7 @@ Experience...
 
 I write: https://www.integralist.co.uk/posts/
 
-## Be Warned
+## Warning
 
 Most of my GitHub projects are old code hacked together and doesn't necessarily best represent me as an engineer :grin:
 
