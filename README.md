@@ -6,9 +6,17 @@ I am a...
 
 Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
 
-> _Be patient, kind, and generous with your time_ - **Me**.
+Life advice...
+
+Be patient, kind, and generous with your time.
 
 ❤️
+
+Experience...
+
+- Staff Software Engineer @BuzzFeed
+- Principal Software Engineer @BBC
+- Principal Software Engineer @StormCreative
 
 ## Articles
 
