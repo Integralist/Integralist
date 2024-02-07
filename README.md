@@ -19,6 +19,18 @@ Be patient, kind, and generous with your time.
 - Principal Software Engineer @BBC
 - Principal Software Engineer @StormCreative
 
+## Languages
+
+I've worked with a multitude of languages since entering the industry professionally back in 2000,  
+but the two languages I use the most over the last 10+ years have been:
+
+<table style="border:0">
+  <tr>
+    <td width="200" style="border:0"><img src="https://github.com/Integralist/Integralist/assets/180050/b8a9caf3-806e-4dac-98bb-cf3444db2e15"></td>
+    <td width="300" style="border:0"><img src="https://github.com/Integralist/Integralist/assets/180050/cfb91d21-b937-45a9-aabc-b2bdecac0f13"></td>
+  </tr>
+</table>
+
 ## Articles
 
 I write: https://www.integralist.co.uk/posts/
