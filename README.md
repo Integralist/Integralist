@@ -22,7 +22,7 @@ Be patient, kind, and generous with your time.
 ## Languages
 
 I've worked with a multitude of languages since entering the industry professionally back in 2000,  
-but the two languages I use the most over the last 10+ years have been:
+but the two languages I've used the most over the last 10+ years has been:
 
 <table style="border:0">
   <tr>
