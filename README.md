@@ -33,7 +33,7 @@ but the two languages I've used the most over the last 10+ years has been:
 
 ## Articles
 
-I write: https://www.integralist.co.uk/posts/
+I write: https://www.integralist.co.uk/
 
 ## Warning
 
