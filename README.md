@@ -19,6 +19,8 @@ Be patient, kind, and generous with your time.
 - Principal Software Engineer @BBC
 - Principal Software Engineer @StormCreative
 
+Full resume: https://www.integralist.co.uk/pages/resume/
+
 ## Languages
 
 I've worked with a multitude of languages since entering the industry professionally back in 2000,  
