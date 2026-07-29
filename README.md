@@ -19,7 +19,7 @@ Be patient, kind, and generous with your time.
 - Principal Software Engineer @BBC
 - Principal Software Engineer @StormCreative
 
-Full resume: https://www.integralist.co.uk/pages/resume/
+Full resume: https://www.integralist.co.uk/resume/
 
 ## Languages
 
