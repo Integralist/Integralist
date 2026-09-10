@@ -32,7 +32,8 @@ and [Python](https://www.python.org/).
 Check out my articles on software engineering over at [integralist.co.uk](https://www.integralist.co.uk/)
 
 > [!CAUTION]
-> Consider this page my personal lab for side projects and older code. My day-to-day production work is tucked away in private repos! :grin:
+> Consider this page my personal lab for side projects and older code.\
+> My day-to-day production work is tucked away in private repos! :grin:
 
 <!--
 **Integralist/Integralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
