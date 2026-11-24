@@ -6,6 +6,8 @@
 
 Compassionate Listener. Polyglot. Author. Husband. Father. He/Him.
 
+And now, agentic developer.
+
 ### Life advice...
 
 Be patient, kind, and generous with your time.
