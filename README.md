@@ -29,6 +29,9 @@ I've worked with a multitude of languages since entering the industry profession
 but the two languages I've used the most over the last 10+ years has been [Go](https://go.dev/) 
 and [Python](https://www.python.org/).
 
+But I guess none of that matters anymore 😅 \
+https://www.integralist.co.uk/posts/how-i-use-ai/ 
+
 ## Articles
 
 Check out my articles on software engineering over at [integralist.co.uk](https://www.integralist.co.uk/)
